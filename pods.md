@@ -761,3 +761,139 @@ JWFolders is a class that attempts to mimic the folder animation present on the
 - Homepage: https://github.com/jwilling/JWFolders
 - Source:   https://github.com/jwilling/JWFolders.git
 
+###カレンダーそっくりさん
+![](http://farm9.staticflickr.com/8308/7898361456_debb9e2695.jpg)
+##Kal (1.0rc1)
+
+A calendar component for the iPhone (the UI is designed to match MobileCal).
+
+- Homepage: http://www.thepolypeptides.com
+- Source:   https://github.com/klazuka/Kal.git
+
+
+###BDD開発
+##Kiwi (1.0.0, 1.1.0)
+
+A Behavior Driven Development library for iPhone and iPad development.
+
+- Homepage: http://kiwi-lib.info
+- Source:   https://github.com/allending/Kiwi.git
+
+###複数選択可能なリスト
+<a href='https://github.com/kentnguyen/KNMultiItemSelector/raw/master/Docs/screenshots/ss2.png' target='_blank' title='click to zoom'><img src='https://github.com/kentnguyen/KNMultiItemSelector/raw/master/Docs/screenshots/ss2.png' height='360px' /></a>.
+<a href='https://github.com/kentnguyen/KNMultiItemSelector/raw/master/Docs/screenshots/ss3.png' target='_blank' title='click to zoom'><img src='https://github.com/kentnguyen/KNMultiItemSelector/raw/master/Docs/screenshots/ss3.png' height='360px' /></a>.
+<a href='https://github.com/kentnguyen/KNMultiItemSelector/raw/master/Docs/screenshots/ss4.png' target='_blank' title='click to zoom'><img src='https://github.com/kentnguyen/KNMultiItemSelector/raw/master/Docs/screenshots/ss4.png' height='360px' /></a>.
+
+<a href='https://github.com/kentnguyen/KNMultiItemSelector/raw/master/Docs/screenshots/ipad_ss1.png' target='_blank' title='click to zoom'><img src='https://github.com/kentnguyen/KNMultiItemSelector/raw/master/Docs/screenshots/ipad_ss1.png' height='240px' /></a>.
+<a href='https://github.com/kentnguyen/KNMultiItemSelector/raw/master/Docs/screenshots/ipad_ss2.png' target='_blank' title='click to zoom'><img src='https://github.com/kentnguyen/KNMultiItemSelector/raw/master/Docs/screenshots/ipad_ss2.png' height='240px' /></a>.
+<a href='https://github.com/kentnguyen/KNMultiItemSelector/raw/master/Docs/screenshots/ipad_ss3.png' target='_blank' title='click to zoom'><img src='https://github.com/kentnguyen/KNMultiItemSelector/raw/master/Docs/screenshots/ipad_ss3.png' height='240px' /></a>.
+<a href='https://github.com/kentnguyen/KNMultiItemSelector/raw/master/Docs/screenshots/ipad_ss4.png' target='_blank' title='click to zoom'><img src='https://github.com/kentnguyen/KNMultiItemSelector/raw/master/Docs/screenshots/ipad_ss4.png' height='240px' /></a>
+##KNMultiItemSelector (1.0)
+KNMultiItemSelector is a versatile drop in multiple items selector for iOS
+    projects.
+    
+- Homepage: https://github.com/kentnguyen/KNMultiItemSelector
+- Source:   https://github.com/kentnguyen/KNMultiItemSelector.git
+[32m
+
+画面を暗くして下からせり出るモーダルビュー
+<img src="https://github.com/kentnguyen/KNSemiModalViewController/blob/master/Docs/original.png?raw=true" /> . <img src="https://github.com/kentnguyen/KNSemiModalViewController/blob/master/Docs/original2.png?raw=true" />
+<img src="https://github.com/kentnguyen/KNSemiModalViewController/blob/master/Docs/ss1.png?raw=true" /> . <img src="https://github.com/kentnguyen/KNSemiModalViewController/blob/master/Docs/ss2.png?raw=true" />
+##KNSemiModalViewController (0.1)
+
+UIViewController+KNSemiModal is an effort to make a replica of semi-modal view
+    with pushed-back stacked animation found in the beautiful Park Guides by
+    National Geographic app.
+    
+- Homepage: https://github.com/kentnguyen/KNSemiModalViewController
+- Source:   https://github.com/kentnguyen/KNSemiModalViewController.git
+
+###iADとGoogle Adsを同じコンテナで
+##LARSAdController (2.1.1)
+
+Singleton Objective-C class to not only easily integrate iAds into your app, but
+    have AdMob ads running as a backup.
+    
+- Homepage: https://github.com/larsacus/LARSAdController
+- Source:   https://github.com/larsacus/LARSAdController.git
+
+###アニメーションGIFからアニメーションを自動生成
+##LBGIFImage (0.0.1)
+
+This is a small category that creates an animated UIImage out of a gif image.
+
+- Homepage: https://github.com/larcus94/LBGIFImage
+- Source:   https://github.com/larcus94/LBGIFImage.git
+
+###ロガー
+##LibComponentLogging-Core (1.1.4, 1.1.5, 1.1.6, 1.2.1, 1.2.2)
+Core files of LibComponentLogging, a small logging library for Objective-C on
+Mac OS X and iOS.
+
+- Homepage: http://0xc0.de/LibComponentLogging
+- Source:   https://github.com/aharren/LibComponentLogging-Core.git
+
+###プッシュ通知のサービス
+##libPusher (1.1, 1.2, 1.3)
+An Objective-C client for the Pusher.com service.
+
+- Homepage: https://github.com/lukeredpath/libPusher
+- Source:   https://github.com/lukeredpath/libPusher.git
+
+###いろんなバッジ
+##LKbadgeView (0.0.1, 1.0.0)
+
+![](https://github.com/lakesoft/LKBadgeView/raw/master/Docs/screenshot0.png)
+Custom badge view.
+
+- Homepage: https://github.com/hayashi311
+- Source:   https://github.com/lakesoft/LKbadgeView.git
+
+###丸いスイッチ
+![](http://farm9.staticflickr.com/8170/7910295380_bb5c29e992.jpg)
+##LLRoundSwitch (1.0.0, 1.0.1)
+
+Customizable replacement for UISwitch with ARC support.
+
+- Homepage: http://github.com/LordLobo/LLRoundSwitch
+- Source:   https://github.com/LordLobo/LLRoundSwitch.git
+
+###テスト用のモック
+##LRMocky (0.9.0, 0.9.1)
+
+A mock object library for Objective C, inspired by JMock 2.0.
+
+- Homepage: http://github.com/lukeredpath/LRMocky
+- Source:   https://github.com/lukeredpath/LRMocky.git
+
+###Restクライアント
+##LRResty (0.11.0)
+
+Resty is a simple to use HTTP library for Cocoa and iOS apps, aimed at consuming
+    RESTful web services and APIs.
+    
+- Homepage: http://projects.lukeredpath.co.uk/resty/
+- Source:   https://github.com/lukeredpath/LRResty.git
+
+###カレンダー
+![](http://muhonen.net/project/CalendarUI/weekview.png)
+##MACalendarUI (1.0.0)
+
+MACalendarUI is a project which offers calendar user interface for iPhone
+    applications.
+    
+- Homepage: https://github.com/muhku/calendar-ui
+- Source:   https://github.com/muhku/calendar-ui.git
+
+###App Storeの購入ボタン
+
+![](http://www.mikeahmarani.com/github/MAConfirmButton.png)
+##MAConfirmButton (0.0.1)
+
+MAConfirmButton is an animated subclass of UIButton that replicates and improves
+    upon the behavior of the AppStore “Buy Now” buttons. Built and animated with
+    Core Animation layers, it is completely image free.
+
+- Homepage: https://github.com/mikeahmarani/MAConfirmButton
+- Source:   https://github.com/mikeahmarani/MAConfirmButton.git
+
