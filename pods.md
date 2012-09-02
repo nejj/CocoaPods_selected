@@ -897,3 +897,11 @@ MAConfirmButton is an animated subclass of UIButton that replicates and improves
 - Homepage: https://github.com/mikeahmarani/MAConfirmButton
 - Source:   https://github.com/mikeahmarani/MAConfirmButton.git
 
+##ActiveRecordもどき（Core Data）
+##MagicalRecord (1.7.1, 1.8.3, 2.0, 2.0.3)
+
+Super Awesome Easy Fetching for Core Data 1!!!11!!!!1!.
+
+- Homepage: http://github.com/magicalpanda/MagicalRecord
+- Source:   https://github.com/magicalpanda/MagicalRecord.git
+
