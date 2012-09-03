@@ -905,3 +905,67 @@ Super Awesome Easy Fetching for Core Data 1!!!11!!!!1!.
 - Homepage: http://github.com/magicalpanda/MagicalRecord
 - Source:   https://github.com/magicalpanda/MagicalRecord.git
 
+##改良KVO
+###MAKVONotificationCenter (0.0.1)
+
+Key-Value Observing Done Right.
+
+- Homepage: http://www.mikeash.com/pyblog/key-value-observing-done-right.html
+- Source:   https://github.com/mikeash/MAKVONotificationCenter.git
+
+##NSObjectにクラス一覧やメソッド一覧などを出力するメソッドを追加する
+##MAObjCRuntime (0.0.1)
+ObjC wrapper for ObjC runtime API.
+
+- Homepage: https://github.com/mikeash/MAObjCRuntime
+- Source:   https://github.com/mikeash/MAObjCRuntime.git
+
+##よりカスタマイズ可能なMapKit
+###MapBox (0.4.0)
+Open source alternative to MapKit.
+
+- Homepage: http://mapbox.com/mobile
+- Source:   https://github.com/mapbox/mapbox-ios-sdk.git
+
+##Localization支援？
+###MBCommon (1.0, 1.0.1)
+
+MBCommon is a lightweight, generic Cocoa library for iOS and OS X.
+
+- Homepage: https://github.com/mobiata/MBCommon
+- Source:   https://github.com/mobiata/MBCommon.git
+
+##プログレスHUD
+
+[![](http://dl.dropbox.com/u/378729/MBProgressHUD/1-thumb.png)](http://dl.dropbox.com/u/378729/MBProgressHUD/1.png)
+[![](http://dl.dropbox.com/u/378729/MBProgressHUD/2-thumb.png)](http://dl.dropbox.com/u/378729/MBProgressHUD/2.png)
+[![](http://dl.dropbox.com/u/378729/MBProgressHUD/3-thumb.png)](http://dl.dropbox.com/u/378729/MBProgressHUD/3.png)
+[![](http://dl.dropbox.com/u/378729/MBProgressHUD/4-thumb.png)](http://dl.dropbox.com/u/378729/MBProgressHUD/4.png)
+[![](http://dl.dropbox.com/u/378729/MBProgressHUD/5-thumb.png)](http://dl.dropbox.com/u/378729/MBProgressHUD/5.png)
+[![](http://dl.dropbox.com/u/378729/MBProgressHUD/6-thumb.png)](http://dl.dropbox.com/u/378729/MBProgressHUD/6.png)
+[![](http://dl.dropbox.com/u/378729/MBProgressHUD/7-thumb.png)](http://dl.dropbox.com/u/378729/MBProgressHUD/7.png)
+
+###MBProgressHUD (0.5)
+
+An iOS activity indicator view.
+
+- Homepage: https://github.com/matej/MBProgressHUD
+- Source:   https://github.com/jdg/MBProgressHUD.git
+
+##キーチェーンのラッパー
+###MCSMKeychainItem (1.0)
+
+A Keychain Wrapper for iOS and OS X.
+
+- Homepage: https://github.com/ObjColumnist/MCSMKeychainItem
+- Source:   https://github.com/ObjColumnist/MCSMKeychainItem.git
+
+##Aboutページ作成支援
+![](http://farm9.staticflickr.com/8307/7919487230_2503e9bcc3.jpg)
+##MDAboutController (0.7)
+
+Automatically populated about view controller for iOS apps!.
+
+- Homepage: http://mochidev.com/
+- Source:   https://github.com/mochidev/MDAboutController.git
+
