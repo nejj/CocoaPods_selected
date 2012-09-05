@@ -969,3 +969,12 @@ Automatically populated about view controller for iOS apps!.
 - Homepage: http://mochidev.com/
 - Source:   https://github.com/mochidev/MDAboutController.git
 
+##Pathのような時間スクロールバー
+<iframe width="640" height="480" src="http://www.youtube.com/embed/EIQfIgpLA98" frameborder="0" allowfullscreen></iframe>
+###MDCScrollBarLabel (0.1.0, 0.1.1)
+
+Like Path's timestamp scrollbar label.
+
+- Homepage: https://github.com/modocache/MDCScrollBarLabel
+- Source:   https://github.com/modocache/MDCScrollBarLabel.git
+
