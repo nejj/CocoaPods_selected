@@ -980,3 +980,12 @@ Like Path's timestamp scrollbar label.
 - Homepage: https://github.com/modocache/MDCScrollBarLabel
 - Source:   https://github.com/modocache/MDCScrollBarLabel.git
 
+##可変グリッドビュー（大きさが変化する）
+###treemapkit (0.0.1)
+
+TreeMap for Cocoa Touch (iPhone/iPod touch/iPad).
+
+- Homepage: http://github.com/yatsu/treemapkit
+- Source:   https://github.com/yatsu/treemapkit.git
+
+<object type="application/x-shockwave-flash" width="300" height="400" data="http://www.flickr.com/apps/video/stewart.swf?v=109786" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars" value="intl_lang=en-us&photo_secret=4c1a37681b&photo_id=4507143423"></param> <param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=109786"></param> <param name="bgcolor" value="#000000"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=109786" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&photo_secret=4c1a37681b&photo_id=4507143423" height="400" width="300"></embed></object>
