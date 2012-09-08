@@ -980,7 +980,21 @@ Like Path's timestamp scrollbar label.
 - Homepage: https://github.com/modocache/MDCScrollBarLabel
 - Source:   https://github.com/modocache/MDCScrollBarLabel.git
 
+##バブルチャートのようなものを地図上に表示する
+
+![OpenClusterMapView Logo](http://www.unet.univie.ac.at/~a0846794/OCMapView/screenshots/open_cluster_mapview_off.png "OpenClusterMapView Turned off")
+![OpenClusterMapView Logo](http://www.unet.univie.ac.at/~a0846794/OCMapView/screenshots/open_cluster_mapview_on.png "OpenClusterMapView Turned on")
+![OpenClusterMapView Logo](http://www.unet.univie.ac.at/~a0846794/OCMapView/screenshots/open_cluster_mapview_groups.png "OpenClusterMapView grouped")    
+###OCMapView
+
+not included in cocoaPods
+
+- Homepage: https://github.com/yinkou/OCMapView
+- Source:   https://github.com/yinkou/OCMapView.git
+
 ##可変グリッドビュー（大きさが変化する）
+
+![](http://farm3.static.flickr.com/2302/4507143463_63823457b8.jpg)
 ###treemapkit (0.0.1)
 
 TreeMap for Cocoa Touch (iPhone/iPod touch/iPad).
