@@ -970,7 +970,7 @@ Automatically populated about view controller for iOS apps!.
 - Source:   https://github.com/mochidev/MDAboutController.git
 
 ##Pathのような時間スクロールバー
-
+![MDCScrollBarLabel GIF](http://f.cl.ly/items/2U3d0j3G3O2j1W1Q3525/mdcscrollbarlabel.gif)
 <iframe width="640" height="480" src="http://www.youtube.com/embed/EIQfIgpLA98" frameborder="0"></iframe>
 
 ###MDCScrollBarLabel (0.1.0, 0.1.1)
@@ -979,6 +979,53 @@ Like Path's timestamp scrollbar label.
 
 - Homepage: https://github.com/modocache/MDCScrollBarLabel
 - Source:   https://github.com/modocache/MDCScrollBarLabel.git
+
+##Facebookのようなサイドビュー
+###MFSideMenu (0.0.1)
+Facebook-like side menu for iOS.
+
+- Homepage: https://github.com/mikefrederick/MFSideMenu
+- Source:   https://github.com/mikefrederick/MFSideMenu.git
+
+##雰囲気のあるTableView
+![IfAlarm Screenshot 1](http://cloud.github.com/downloads/sobri909/MGBox/Screenshot1.png)
+![IfAlarm Screenshot 2](http://cloud.github.com/downloads/sobri909/MGBox/Screenshot2.png)
+![Demo App Screenshot](http://cloud.github.com/downloads/sobri909/MGBox/DemoAppScreenshot.png)
+###MGBox (0.0.1)
+
+A UITableView replacement with simplified API.
+
+- Homepage: https://github.com/sobri909/MGBox
+- Source:   https://github.com/sobri909/MGBox.git
+
+##UIImageに様々なカテゴリを追加する
+###MGImageUtilities (0.0.1)
+
+Useful UIImage categories for iPhone/iPad developers.
+
+- Homepage: http://mattgemmell.com/
+- Source:   https://github.com/mattgemmell/MGImageUtilities.git
+
+##ビューをポップアップさせる
+<img src="https://raw.github.com/martinjuhasz/MJPopupViewController/master/assets/demo1.png" width="320" height="480"/>
+<img src="https://raw.github.com/martinjuhasz/MJPopupViewController/master/assets/demo2.png" width="330" height="480"/>
+###MJPopupViewController (0.3)
+
+A UIViewController Category to display a ViewController as a popup with
+different transition effects.
+
+- Homepage: https://github.com/martinjuhasz/MJPopupViewController
+- Source:   https://github.com/martinjuhasz/MJPopupViewController.git
+
+##水平なメニューを表示する
+###MKHorizMenu (0.0.1)
+
+Demo of MKHorizMenu a simple, drop-in replacement for the Three20 fame
+horizontal menus used in news apps.
+
+- Homepage: http://mugunthkumar.com
+- Source:   https://github.com/MugunthKumar/MKHorizMenuDemo.git
+
 
 ##バブルチャートのようなものを地図上に表示する
 
@@ -1003,3 +1050,5 @@ TreeMap for Cocoa Touch (iPhone/iPod touch/iPad).
 - Source:   https://github.com/yatsu/treemapkit.git
 
 <object type="application/x-shockwave-flash" width="300" height="400" data="http://www.flickr.com/apps/video/stewart.swf?v=109786" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars" value="intl_lang=en-us&photo_secret=4c1a37681b&photo_id=4507143423"></param> <param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=109786"></param> <param name="bgcolor" value="#000000"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=109786" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&photo_secret=4c1a37681b&photo_id=4507143423" height="400" width="300"></embed></object>
+
+
