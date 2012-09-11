@@ -1026,7 +1026,110 @@ horizontal menus used in news apps.
 - Homepage: http://mugunthkumar.com
 - Source:   https://github.com/MugunthKumar/MKHorizMenuDemo.git
 
+###NSUserDefaultsを自動的にiCloudに保存する
+##MKiCloudSync (0.0.1)
 
+Sync your NSUserDefaults to iCloud automatically.
+
+- Homepage: https://github.com/MugunthKumar/MKiCloudSync
+- Source:   https://github.com/MugunthKumar/MKiCloudSync.git
+
+##アプリ内課金のためのライブラリ
+###MKStoreKit (4.3)
+
+In-App Purchases StoreKit for iOS devices.
+
+- Homepage: https://github.com/MugunthKumar/MKStoreKit
+- Source:   https://github.com/MugunthKumar/MKStoreKit.git
+
+##アプリ内画像をまとめる方法
+![Tab bar icons](https://s3.amazonaws.com/peyton.github.com/MOOMaskedIconView/Sample-Bar-Cutaway.png)
+###MOOMaskedIconView (0.1.0)
+
+UIView subclass that uses black-and-white masks to draw icons.
+
+- Homepage: https://github.com/peyton/MOOMaskedIconView
+- Source:   https://github.com/peyton/MOOMaskedIconView.git
+
+##フリップするビューを提供
+![](http://markpospesel.files.wordpress.com/2012/07/fliphorizontal2x.png?w=320&amp;h=480)
+###MPFlipViewController (0.0.1)
+
+A custom container view controller following the iOS 5 containment API that
+navigates between child view controllers via touch gestures and page-flip
+animations.
+
+- Homepage: http://markpospesel.com/2012/07/28/mpflipviewcontroller/
+- Source:   https://github.com/mpospese/MPFlipViewController.git
+
+##アコーディオンのようなビュー
+![](http://markpospesel.files.wordpress.com/2012/05/iphone-fold2.png?w=584)
+##MPFoldTransition (0.0.1)
+
+Easily add custom folding and page-flipping transitions to UIViews and
+UIViewControllers.
+
+- Homepage: http://markpospesel.com/2012/05/07/mpfoldtransition/
+- Source:   https://github.com/mpospese/MPFoldTransition.git
+
+##UILabelを拡張する
+###MTLabel (0.0.1)
+
+A lightweight replacement for Apple's UILabel.
+
+- Homepage: http://tuszy.github.com
+- Source:   https://github.com/Tuszy/MTLabel.git
+
+##Status Barに文字列を表示する
+![Default style](https://img.skitch.com/20101223-r1ddre3u4sjmn4htkqw3bhp84j.jpg "Default style")
+###MTStatusBarOverlay (0.9)
+
+A custom iOS status bar overlay seen in Apps like Reeder, Evernote and Google
+Mobile App.
+
+- Homepage: https://github.com/myell0w/MTStatusBarOverlay
+- Source:   https://github.com/myell0w/MTStatusBarOverlay.git
+
+##画面を一部から全画面に広げられる
+![MTZoomWindow](https://img.skitch.com/20110308-n2qxh5t2jhtpinig29dyacrhr5.png "MTZoomWindow")
+###MTZoomWindow (0.5)
+
+A UIWindow that can be used to zoom in a specific UIView and displays it
+fullscreen.
+
+- Homepage: https://github.com/myell0w/MTZoomWindow
+- Source:   https://github.com/myell0w/MTZoomWindow.git
+
+##フィードのパーサ
+###MWFeedParser (0.0.1)
+
+An Objective-C RSS / Atom Feed Parser for iOS.
+
+- Homepage: https://github.com/mwaterfall/MWFeedParser
+- Source:   https://github.com/mwaterfall/MWFeedParser.git
+
+##上下左右にスライドするUIView
+###MWFSlideNavigationViewController (0.0.1, 0.0.2)
+
+MWFSlideNavigationViewController is a container view controller that manages
+primary and secondary view controller.
+
+- Homepage: http://meiwinfu.com
+- Source:   https://github.com/meiwin/MWFSlideNavigationViewController.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
 ##バブルチャートのようなものを地図上に表示する
 
 ![OpenClusterMapView Logo](http://www.unet.univie.ac.at/~a0846794/OCMapView/screenshots/open_cluster_mapview_off.png "OpenClusterMapView Turned off")
@@ -1050,5 +1153,4 @@ TreeMap for Cocoa Touch (iPhone/iPod touch/iPad).
 - Source:   https://github.com/yatsu/treemapkit.git
 
 <object type="application/x-shockwave-flash" width="300" height="400" data="http://www.flickr.com/apps/video/stewart.swf?v=109786" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars" value="intl_lang=en-us&photo_secret=4c1a37681b&photo_id=4507143423"></param> <param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=109786"></param> <param name="bgcolor" value="#000000"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=109786" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&photo_secret=4c1a37681b&photo_id=4507143423" height="400" width="300"></embed></object>
-
 
