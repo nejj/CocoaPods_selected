@@ -1117,6 +1117,165 @@ primary and secondary view controller.
 - Homepage: http://meiwinfu.com
 - Source:   https://github.com/meiwin/MWFSlideNavigationViewController.git
 
+##下方延長ローディングできるテーブル
+###MwfTableViewController (0.0.2, 0.0.3, 0.0.4, 0.0.5)
+
+Extension to UITableViewController in attempt to provide additional features
+that are reusable in most scenarios.
+
+- Homepage: http://github.com/meiwin/MwfTableViewController
+- Source:   https://github.com/meiwin/MwfTableViewController.git
+
+##写真アプリのようなもの
+[![Alt][screenshot1_thumb]][screenshot1]    [![Alt][screenshot2_thumb]][screenshot2]    [![Alt][screenshot3_thumb]][screenshot3]    [![Alt][screenshot4_thumb]][screenshot4]
+[screenshot1_thumb]: http://dl.dropbox.com/u/2111839/Permanent/MWPhotoBrowser/mwphotobrowser1_thumb.png
+[screenshot1]: http://dl.dropbox.com/u/2111839/Permanent/MWPhotoBrowser/mwphotobrowser1.png
+[screenshot2_thumb]: http://dl.dropbox.com/u/2111839/Permanent/MWPhotoBrowser/mwphotobrowser2_thumb.png
+[screenshot2]: http://dl.dropbox.com/u/2111839/Permanent/MWPhotoBrowser/mwphotobrowser2.png
+[screenshot3_thumb]: http://dl.dropbox.com/u/2111839/Permanent/MWPhotoBrowser/mwphotobrowser3_thumb.png
+[screenshot3]: http://dl.dropbox.com/u/2111839/Permanent/MWPhotoBrowser/mwphotobrowser3.png
+[screenshot4_thumb]: http://dl.dropbox.com/u/2111839/Permanent/MWPhotoBrowser/mwphotobrowser4_thumb.png
+[screenshot4]: http://dl.dropbox.com/u/2111839/Permanent/MWPhotoBrowser/mwphotobrowser4.png
+### MWPhotoBrowser (0.0.1)
+
+A simple iOS photo browser.
+
+- Homepage: https://github.com/mwaterfall/MWPhotoBrowser
+- Source:   https://github.com/mwaterfall/MWPhotoBrowser.git
+
+##キー値コーディングを簡単にできる？
+###NanoStore (2.0.1, 2.1.0, 2.1.1, 2.1.2, 2.1.3, 2.1.4)
+
+NanoStore is an open source, lightweight schema-less local key-value document
+store written in Objective-C for Mac OS X and iOS.
+
+- Homepage: https://github.com/tciuro/NanoStore
+- Source:   https://github.com/tciuro/NanoStore.git
+
+##three20よりシンプルな総合フレームワーク
+###Nimbus (0.9.0, 0.9.1, 0.9.2, 0.9.3)
+
+An iOS framework whose growth is bounded by O(documentation).
+
+- Homepage: http://docs.nimbuskit.info/index.html
+- Source:   https://github.com/jverkoey/nimbus.git
+
+## CoreDataのコードを読みやすくする
+###NLCoreData (0.1.0, 0.1.1, 0.2.0)
+
+Library that wraps Core Data for iOS for easier and more readable operations.
+
+- Homepage: https://www.github.com/jksk/NLCoreData
+- Source:   https://github.com/jksk/NLCoreData.git
+
+##モックのHTTPサーバ
+###NLTHTTPStubServer (0.1.1, 0.1.2)
+
+NLTHTTPStubServer is mocking server. launch simple HTTPServer on Testcodes.
+
+- Homepage: http://github.com/yaakaito/NLTHTTPStubServer
+- Source:   https://github.com/yaakaito/NLTHTTPStubServer.git
+
+## Tweetbotのような通知ビュー
+![Alt text](http://cloud.github.com/downloads/tciuro/NoticeView/screenshot_2.0.1.png)
+###NoticeView (1.0.0, 2.1)
+
+A TweetBot-like notice component for iOS.
+
+- Homepage: https://github.com/tciuro/NoticeView/
+- Source:   https://github.com/tciuro/NoticeView.git
+
+## オーディオを扱いやすくする
+###Novocaine (0.0.1)
+
+Painless high-performance audio on iOS and Mac OS X.
+
+- Homepage: http://alexbw.github.com/novocaine/
+- Source:   https://github.com/auser/novocaine.git
+
+## NSArrayやNSDictionaryをそのまま印刷する
+###NSContainers-PrettyPrint (0.0.1, 0.1.0, 0.2.0)
+
+Print your own object descriptions just like Apple's own NSArray and
+NSDictionary.
+
+- Homepage: https://github.com/NSError/NSContainers-PrettyPrint
+- Source:   https://github.com/NSError/NSContainers-PrettyPrint.git
+
+## Base64で暗号化。いくつかのライブラリで使われている。
+###NSData+Base64 (1.0.0)
+
+Base64 for NSData.
+
+- Homepage: 
+- Source:   https://github.com/l4u/NSData-Base64.git
+
+## MD5で暗号化。
+###NSData+MD5Digest (1.0.0)
+
+Add MD5 digest to NSData.
+
+- Homepage: https://github.com/siuying/NSData-MD5
+- Source:   https://github.com/siuying/NSData-MD5.git
+
+## NSDateを扱いやすくする
+##NSDate+Helper (0.0.1)
+
+A category to extend Cocoa's NSDate class with some convenience functions.
+
+- Homepage: https://github.com/billymeltdown/nsdate-helper
+- Source:   https://github.com/billymeltdown/nsdate-helper.git
+
+## OAuthクライアント
+###NXOAuth2Client (1.0.1, 1.1.0)
+
+Client library for OAuth2 (currently built against draft 10 of the OAuth2 spec).
+
+- Homepage: https://github.com/nxtbgthng/OAuth2Client
+- Source:   https://github.com/nxtbgthng/OAuth2Client.git
+
+## UIImageのカテゴリ。トリミングやリサイズなど。
+
+###NYXImagesKit (2.1.1, 2.1.2)
+
+A set of efficient categories for UIImage class. It allows filtering, resizing,
+masking, rotating, enhancing... and more.
+
+- Homepage: https://github.com/Nyx0uf/NYXImagesKit
+- Source:   https://github.com/Nyx0uf/NYXImagesKit.git
+
+### オーディオの取り扱いを簡単にする
+##ObjectAL-for-iPhone (2.1)
+
+iOS Audio development, minus the headache. ObjectAL is the easy Objective-C
+interface to OpenAL, AVAudioPlayer, and audio session management.
+
+- Homepage: http://kstenerud.github.com/ObjectAL-for-iPhone/
+- Source:   https://github.com/kstenerud/ObjectAL-for-iPhone.git
+
+## HTMLパーサ
+###Objective-C-HMTL-Parser (0.0.1)
+
+An objective c wrapper around libxml for parsing HTMLr.
+
+- Homepage: http://www.benreeves.co.uk
+- Source:   https://github.com/zootreeves/Objective-C-HMTL-Parser.git
+
+## Flickr APIフレームワーク
+###objectiveflickr (0.0.1)
+
+ObjectiveFlickr, a Flickr API framework for Objective-C.
+
+- Homepage: http://lukhnos.org
+- Source:   https://github.com/lukhnos/objectiveflickr.git
+
+## RubyのMixInのようなことができるようになる
+##ObjectiveMixin (0.0.1, 1.0.0)
+
+Ruby-like mixin functionality for Objective-C programs.
+
+- Homepage: https://github.com/vl4dimir/ObjectiveMixin
+- Source:   https://github.com/vl4dimir/ObjectiveMixin.git
 
 
 
