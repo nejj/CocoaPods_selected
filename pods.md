@@ -980,3 +980,72 @@ Like Path's timestamp scrollbar label.
 - Homepage: https://github.com/modocache/MDCScrollBarLabel
 - Source:   https://github.com/modocache/MDCScrollBarLabel.git
 
+## Facebookのようなサイドメニュー
+### MFSideMenu (0.0.1, 0.2)
+
+Facebook-like side menu for iOS.
+
+- Homepage: https://github.com/mikefrederick/MFSideMenu
+- Source:   https://github.com/mikefrederick/MFSideMenu.git
+
+## ちょっと毛色の違うテーブル
+![IfAlarm Screenshot 1](http://cloud.github.com/downloads/sobri909/MGBox/Screenshot1.png)
+![IfAlarm Screenshot 2](http://cloud.github.com/downloads/sobri909/MGBox/Screenshot2.png)
+![Demo App Screenshot](http://cloud.github.com/downloads/sobri909/MGBox/DemoAppScreenshot.png)
+### MGBox (0.0.1)
+
+A UITableView replacement with simplified API.
+
+- Homepage: https://github.com/sobri909/MGBox
+- Source:   https://github.com/sobri909/MGBox.git
+
+## UIImageを切り抜いたりハイライトしたりするカテゴリ
+<img src="http://mattgemmell.com/images/faves_buttons.jpg" width="300" height="339" alt="Screenshot of contact photos in Favorites">
+<img src="http://mattgemmell.com/images/faves_badges.jpg" width="400" height="240" alt="Screenshot of badge choosing screen in Favorites">
+<img src="http://mattgemmell.com/files/source/mgimageutilities.jpg" width="400" height="575" alt="Screenshot of MGImageUtilities demo app">
+## MGImageUtilities (0.0.1)
+
+Useful UIImage categories for iPhone/iPad developers.
+
+- Homepage: http://mattgemmell.com/2010/07/05/mgimageutilities/
+- Source:   https://github.com/mattgemmell/MGImageUtilities.git
+
+## ウィンドウの中に小さくポップアップするビュー
+<img src="https://raw.github.com/martinjuhasz/MJPopupViewController/master/assets/demo1.png" width="320" height="480"/>
+<img src="https://raw.github.com/martinjuhasz/MJPopupViewController/master/assets/demo2.png" width="330" height="480"/>
+### MJPopupViewController (0.3)
+
+A UIViewController Category to display a ViewController as a popup with
+different transition effects.
+
+- Homepage: https://github.com/martinjuhasz/MJPopupViewController
+- Source:   https://github.com/martinjuhasz/MJPopupViewController.git
+
+## 水平なメニューバー。雰囲気がマット仕上げっぽい。
+http://www.youtube.com/watch?v=HbQ71Ny5i1s
+### MKHorizMenu (0.0.1)
+
+Demo of MKHorizMenu a simple, drop-in replacement for the Three20 fame
+horizontal menus used in news apps.
+
+- Homepage: http://mugunthkumar.com
+- Source:   https://github.com/MugunthKumar/MKHorizMenuDemo.git
+
+## NSUserDefaultsとiCloudを自動で同期する
+### MKiCloudSync (0.0.1)
+
+Sync your NSUserDefaults to iCloud automatically.
+
+- Homepage: https://github.com/MugunthKumar/MKiCloudSync
+- Source:   https://github.com/MugunthKumar/MKiCloudSync.git
+
+## メッセージが上からニョキッと出てきて元に戻る
+http://www.youtube.com/watch?v=rszbxAUCEDs
+### MKInfoPanel (0.0.1)
+
+Non-modal, non-intrusive Info Panel implementation as seen on some "popular"
+apps.
+
+- Homepage: https://github.com/MugunthKumar/MKInfoPanelDemo
+- Source:   https://github.com/MugunthKumar/MKInfoPanelDemo.git
+
