@@ -1277,9 +1277,210 @@ Ruby-like mixin functionality for Objective-C programs.
 - Homepage: https://github.com/vl4dimir/ObjectiveMixin
 - Source:   https://github.com/vl4dimir/ObjectiveMixin.git
 
+## Tumblr API
+###ObjectiveTumblr (0.1.1, 0.1.2, 0.1.3)
 
+Tumblr API Client for Objective-C with minimal features, based on Tumblr API v2
+(OAuth).
 
+- Homepage: https://github.com/IgnitionSoft/ObjectiveTumblr
+- Source:   https://github.com/IgnitionSoft/ObjectiveTumblr.git
 
+## QRエンコーダ
+###ObjQREncoder (0.0.1)
+
+Objective C QR Encoder.
+
+- Homepage: https://github.com/jverkoey/ObjQREncoder
+- Source:   https://github.com/jverkoey/ObjQREncoder.git
+
+## 長方形でないボタンを作ることができる
+### OBShapedButton (1.0.0)
+
+A UIButton subclass that works with non-rectangular button shapes.
+
+- Homepage: https://github.com/ole/OBShapedButton
+- Source:   https://github.com/ole/OBShapedButton.git
+
+## 間欠的なスライダー
+### OBSlider (1.0.0, 1.1.0)
+
+A UISlider subclass that adds variable scrubbing speeds.
+
+- Homepage: https://github.com/ole/OBSlider
+- Source:   https://github.com/ole/OBSlider.git
+
+## iPhoneでも使えるポップオーバーするシンプルなカレンダー
+### OCCalendar (0.0.1, 0.0.3)
+
+OCCalendar is a very simple component for iPhone/iPad that provides a 'Popover'
+date picker controller.
+
+- Homepage: https://github.com/ocrickard/OCCalendar
+- Source:   https://github.com/ocrickard/OCCalendar.git
+
+## テストのMatcherのライブラリ（GHUnitやCedarと連携可能）
+###OCHamcrest (1.6, 1.7, 1.8)
+
+Unit test assertions on steroids: Hamcrest matchers for Objective-C.
+
+- Homepage: https://github.com/hamcrest/OCHamcrest
+- Source:   https://github.com/hamcrest/OCHamcrest.git
+
+## ログ・フレームワーク
+### OCLogTemplate (1.0)
+
+A logging framework for Objective-C projects.
+
+- Homepage: https://github.com/jasperblues/OCLogTemplate
+- Source:   https://github.com/jasperblues/OCLogTemplate.git
+
+## テスト用のモック
+###OCMock (1.77.1, 2.0.1)
+
+OCMock is an Objective-C implementation of mock objects.
+
+- Homepage: http://ocmock.org
+- Source:   https://github.com/erikdoe/ocmock.git
+
+## iOS6メールアプリのようなプルダウン・リフレッシュ
+![](http://www.orangeinaday.com/img/ODRefreshControl.jpg)
+### ODRefreshControl (0.0.1, 0.0.2, 1.0.0)
+
+A pull down to refresh control like the one in Apple's iOS6 Mail App.
+
+- Homepage: https://github.com/Sephiroth87/ODRefreshControl
+- Source:   https://github.com/Sephiroth87/ODRefreshControl.git
+
+## 書式色付ラベル
+###OHAttributedLabel (0.0.1.pre.1, 0.0.1.pre.2, 1.2.0)
+
+UILabel that supports NSAttributedString.
+
+- Homepage: https://github.com/AliSoftware/OHAttributedLabel
+- Source:   https://github.com/AliSoftware/OHAttributedLabel.git
+
+## UDIDを取得？
+### OpenUDID (1.0.0)
+
+Open source initiative for a universal and persistent UDID solution for iOS..
+
+- Homepage: http://OpenUDID.org
+- Source:   https://github.com/ylechelle/OpenUDID.git
+
+## iPhone App Storeのスクリーンショットのように左右に動かせるビュー
+###![Demo](http://ww4.sinaimg.cn/large/65cc0af7gw1dqpbq3o6l6j.jpg)
+
+PagedFlowView (0.0.1)
+A Paging Enabled Flow View, like screenshots view in iPhone App Store.
+
+- Homepage: https://github.com/fictorial/PagedFlowView
+- Source:   https://github.com/fictorial/PagedFlowView.git
+
+## BaaS
+###Parse (1.0.36, 1.0.39)
+
+The mobile app platform for developers.
+
+- Homepage: http://parse.com/
+- Source:   https://github.com/fictorial/Parse.git
+
+## 文字列をトークン化したりパースしたり
+## ParseKit (0.0.1, 0.0.2)
+
+Objective-C/Cocoa String Tokenizer and Parser toolkit. Supports Grammars.
+
+- Homepage: http://parsekit.com/
+- Source:   http://parsekit.googlecode.com/svn/trunk
+
+## プル・リフレッシュ
+###PHFRefreshControl (1.0.0)
+
+YAPTR(TM): Yet another pull-to-refresh.
+
+- Homepage: https://github.com/fphilipe/PHFRefreshControl
+- Source:   https://github.com/fphilipe/PHFRefreshControl.git
+
+## Pivotalのテスト用ライブラリ
+### PivotalCoreKit (0.0.1)
+
+Shared library and test code for iOS projects.
+
+- Homepage: https://github.com/pivotal/PivotalCoreKit
+- Source:   https://github.com/pivotal/PivotalCoreKit.git
+- Sub specs:
+	- PivotalCoreKit/CoreLib (0.0.1)
+	- PivotalCoreKit/UICoreLib (0.0.1)
+	- PivotalCoreKit/SpecHelperLib (0.0.1)
+
+## Facebookのようなサイドビュー
+###PPRevealSideViewController (0.1.0)
+
+A new container controller to easily push views on side like Path or Facebook.
+
+- Homepage: www.ipup.pro
+- Source:   https://github.com/ipup/PPRevealSideViewController.git
+
+## テーブルやナビゲーションバーなどをカスタマイズ
+###PrettyKit (0.1.0, 0.2.0)
+
+PrettyKit for iOS is a small set of new widgets and UIKit subclasses that gives
+you a deeper UIKit customization.
+
+- Homepage: http://github.com/vicpenap/PrettyKit
+- Source:   https://github.com/vicpenap/PrettyKit.git
+
+## 画像補完を行う
+###PRTween (0.0.1)
+
+PRTween is a lightweight tweening library built for iOS.
+
+- Homepage: https://github.com/dominikhofmann/PRTween
+- Source:   https://github.com/dominikhofmann/PRTween.git
+
+## 画像を指でズーム、回転
+###PSPushPopPressView (0.0.1)
+
+Zoom, Rotate, Drag ? everything at the same time. A view-container for direct
+manipulation, inspired by Our Choice from Push Pop Press.
+
+- Homepage: http://petersteinberger.com
+- Source:   https://github.com/steipete/PSPushPopPressView.git
+
+## iPadのTwitterのようなビュー
+![PSStackedView](http://f.cl.ly/items/2O1p18263a2Q27223R3h/Screen%20Shot%202011-11-01%20at%206.03.02%20PM.png)
+![PSStackedView](http://f.cl.ly/items/2Z0w0D1P0y1h2N1V3d1t/mzl.svmxiutd.png)
+### PSStackedView (0.1)
+
+Open source implementation of Twitter/iPad stacked ui - done right.
+
+- Homepage: https://github.com/steipete/PSStackedView
+- Source:   https://github.com/steipete/PSStackedView.git
+
+## iPhone App Storeのようなボタン
+### PSStoreButton (0.0.1)
+
+UIButton that is styled like iPhone's AppStore-Button.
+
+- Homepage: https://github.com/steipete/PSStoreButton
+- Source:   https://github.com/steipete/PSStoreButton.git
+
+## プル・リフレッシュ
+###PullToRefresh (0.0.1)
+
+A simple iPhone TableViewController for adding pull-to-refresh functionality.
+
+- Homepage: https://github.com/leah/PullToRefresh
+- Source:   https://github.com/leah/PullToRefresh.git
+
+## プル・リフレッシュ
+###PullToRefreshView (0.0.1)
+
+A UIView for easily implementing pull-to-refresh functionality in a UIScrollView
+that doesn't suck.
+
+- Homepage: https://github.com/btaylor/PullToRefreshView
+- Source:   https://github.com/btaylor/PullToRefreshView.git
 
 
 
