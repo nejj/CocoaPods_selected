@@ -970,7 +970,7 @@ Automatically populated about view controller for iOS apps!.
 - Source:   https://github.com/mochidev/MDAboutController.git
 
 ##Pathのような時間スクロールバー
-
+![MDCScrollBarLabel GIF](http://f.cl.ly/items/2U3d0j3G3O2j1W1Q3525/mdcscrollbarlabel.gif)
 <iframe width="640" height="480" src="http://www.youtube.com/embed/EIQfIgpLA98" frameborder="0"></iframe>
 
 ###MDCScrollBarLabel (0.1.0, 0.1.1)
@@ -980,25 +980,39 @@ Like Path's timestamp scrollbar label.
 - Homepage: https://github.com/modocache/MDCScrollBarLabel
 - Source:   https://github.com/modocache/MDCScrollBarLabel.git
 
+<<<<<<< HEAD
 ## Facebookのようなサイドメニュー
 ### MFSideMenu (0.0.1, 0.2)
 
+=======
+##Facebookのようなサイドビュー
+###MFSideMenu (0.0.1)
+>>>>>>> 編集用
 Facebook-like side menu for iOS.
 
 - Homepage: https://github.com/mikefrederick/MFSideMenu
 - Source:   https://github.com/mikefrederick/MFSideMenu.git
 
+<<<<<<< HEAD
 ## ちょっと毛色の違うテーブル
 ![IfAlarm Screenshot 1](http://cloud.github.com/downloads/sobri909/MGBox/Screenshot1.png)
 ![IfAlarm Screenshot 2](http://cloud.github.com/downloads/sobri909/MGBox/Screenshot2.png)
 ![Demo App Screenshot](http://cloud.github.com/downloads/sobri909/MGBox/DemoAppScreenshot.png)
 ### MGBox (0.0.1)
+=======
+##雰囲気のあるTableView
+![IfAlarm Screenshot 1](http://cloud.github.com/downloads/sobri909/MGBox/Screenshot1.png)
+![IfAlarm Screenshot 2](http://cloud.github.com/downloads/sobri909/MGBox/Screenshot2.png)
+![Demo App Screenshot](http://cloud.github.com/downloads/sobri909/MGBox/DemoAppScreenshot.png)
+###MGBox (0.0.1)
+>>>>>>> 編集用
 
 A UITableView replacement with simplified API.
 
 - Homepage: https://github.com/sobri909/MGBox
 - Source:   https://github.com/sobri909/MGBox.git
 
+<<<<<<< HEAD
 ## UIImageを切り抜いたりハイライトしたりするカテゴリ
 <img src="http://mattgemmell.com/images/faves_buttons.jpg" width="300" height="339" alt="Screenshot of contact photos in Favorites">
 <img src="http://mattgemmell.com/images/faves_badges.jpg" width="400" height="240" alt="Screenshot of badge choosing screen in Favorites">
@@ -1014,6 +1028,20 @@ Useful UIImage categories for iPhone/iPad developers.
 <img src="https://raw.github.com/martinjuhasz/MJPopupViewController/master/assets/demo1.png" width="320" height="480"/>
 <img src="https://raw.github.com/martinjuhasz/MJPopupViewController/master/assets/demo2.png" width="330" height="480"/>
 ### MJPopupViewController (0.3)
+=======
+##UIImageに様々なカテゴリを追加する
+###MGImageUtilities (0.0.1)
+
+Useful UIImage categories for iPhone/iPad developers.
+
+- Homepage: http://mattgemmell.com/
+- Source:   https://github.com/mattgemmell/MGImageUtilities.git
+
+##ビューをポップアップさせる
+<img src="https://raw.github.com/martinjuhasz/MJPopupViewController/master/assets/demo1.png" width="320" height="480"/>
+<img src="https://raw.github.com/martinjuhasz/MJPopupViewController/master/assets/demo2.png" width="330" height="480"/>
+###MJPopupViewController (0.3)
+>>>>>>> 編集用
 
 A UIViewController Category to display a ViewController as a popup with
 different transition effects.
@@ -1021,9 +1049,14 @@ different transition effects.
 - Homepage: https://github.com/martinjuhasz/MJPopupViewController
 - Source:   https://github.com/martinjuhasz/MJPopupViewController.git
 
+<<<<<<< HEAD
 ## 水平なメニューバー。雰囲気がマット仕上げっぽい。
 http://www.youtube.com/watch?v=HbQ71Ny5i1s
 ### MKHorizMenu (0.0.1)
+=======
+##水平なメニューを表示する
+###MKHorizMenu (0.0.1)
+>>>>>>> 編集用
 
 Demo of MKHorizMenu a simple, drop-in replacement for the Three20 fame
 horizontal menus used in news apps.
@@ -1031,14 +1064,20 @@ horizontal menus used in news apps.
 - Homepage: http://mugunthkumar.com
 - Source:   https://github.com/MugunthKumar/MKHorizMenuDemo.git
 
+<<<<<<< HEAD
 ## NSUserDefaultsとiCloudを自動で同期する
 ### MKiCloudSync (0.0.1)
+=======
+###NSUserDefaultsを自動的にiCloudに保存する
+##MKiCloudSync (0.0.1)
+>>>>>>> 編集用
 
 Sync your NSUserDefaults to iCloud automatically.
 
 - Homepage: https://github.com/MugunthKumar/MKiCloudSync
 - Source:   https://github.com/MugunthKumar/MKiCloudSync.git
 
+<<<<<<< HEAD
 ## メッセージが上からニョキッと出てきて元に戻る
 http://www.youtube.com/watch?v=rszbxAUCEDs
 ### MKInfoPanel (0.0.1)
@@ -1048,4 +1087,531 @@ apps.
 
 - Homepage: https://github.com/MugunthKumar/MKInfoPanelDemo
 - Source:   https://github.com/MugunthKumar/MKInfoPanelDemo.git
+=======
+##アプリ内課金のためのライブラリ
+###MKStoreKit (4.3)
+
+In-App Purchases StoreKit for iOS devices.
+
+- Homepage: https://github.com/MugunthKumar/MKStoreKit
+- Source:   https://github.com/MugunthKumar/MKStoreKit.git
+
+##アプリ内画像をまとめる方法
+![Tab bar icons](https://s3.amazonaws.com/peyton.github.com/MOOMaskedIconView/Sample-Bar-Cutaway.png)
+###MOOMaskedIconView (0.1.0)
+
+UIView subclass that uses black-and-white masks to draw icons.
+
+- Homepage: https://github.com/peyton/MOOMaskedIconView
+- Source:   https://github.com/peyton/MOOMaskedIconView.git
+
+##フリップするビューを提供
+![](http://markpospesel.files.wordpress.com/2012/07/fliphorizontal2x.png?w=320&amp;h=480)
+###MPFlipViewController (0.0.1)
+
+A custom container view controller following the iOS 5 containment API that
+navigates between child view controllers via touch gestures and page-flip
+animations.
+
+- Homepage: http://markpospesel.com/2012/07/28/mpflipviewcontroller/
+- Source:   https://github.com/mpospese/MPFlipViewController.git
+
+##アコーディオンのようなビュー
+![](http://markpospesel.files.wordpress.com/2012/05/iphone-fold2.png?w=584)
+##MPFoldTransition (0.0.1)
+
+Easily add custom folding and page-flipping transitions to UIViews and
+UIViewControllers.
+
+- Homepage: http://markpospesel.com/2012/05/07/mpfoldtransition/
+- Source:   https://github.com/mpospese/MPFoldTransition.git
+
+##UILabelを拡張する
+###MTLabel (0.0.1)
+
+A lightweight replacement for Apple's UILabel.
+
+- Homepage: http://tuszy.github.com
+- Source:   https://github.com/Tuszy/MTLabel.git
+
+##Status Barに文字列を表示する
+![Default style](https://img.skitch.com/20101223-r1ddre3u4sjmn4htkqw3bhp84j.jpg "Default style")
+###MTStatusBarOverlay (0.9)
+
+A custom iOS status bar overlay seen in Apps like Reeder, Evernote and Google
+Mobile App.
+
+- Homepage: https://github.com/myell0w/MTStatusBarOverlay
+- Source:   https://github.com/myell0w/MTStatusBarOverlay.git
+
+##画面を一部から全画面に広げられる
+![MTZoomWindow](https://img.skitch.com/20110308-n2qxh5t2jhtpinig29dyacrhr5.png "MTZoomWindow")
+###MTZoomWindow (0.5)
+
+A UIWindow that can be used to zoom in a specific UIView and displays it
+fullscreen.
+
+- Homepage: https://github.com/myell0w/MTZoomWindow
+- Source:   https://github.com/myell0w/MTZoomWindow.git
+
+##フィードのパーサ
+###MWFeedParser (0.0.1)
+
+An Objective-C RSS / Atom Feed Parser for iOS.
+
+- Homepage: https://github.com/mwaterfall/MWFeedParser
+- Source:   https://github.com/mwaterfall/MWFeedParser.git
+
+##上下左右にスライドするUIView
+###MWFSlideNavigationViewController (0.0.1, 0.0.2)
+
+MWFSlideNavigationViewController is a container view controller that manages
+primary and secondary view controller.
+
+- Homepage: http://meiwinfu.com
+- Source:   https://github.com/meiwin/MWFSlideNavigationViewController.git
+
+##下方延長ローディングできるテーブル
+###MwfTableViewController (0.0.2, 0.0.3, 0.0.4, 0.0.5)
+
+Extension to UITableViewController in attempt to provide additional features
+that are reusable in most scenarios.
+
+- Homepage: http://github.com/meiwin/MwfTableViewController
+- Source:   https://github.com/meiwin/MwfTableViewController.git
+
+##写真アプリのようなもの
+[![Alt][screenshot1_thumb]][screenshot1]    [![Alt][screenshot2_thumb]][screenshot2]    [![Alt][screenshot3_thumb]][screenshot3]    [![Alt][screenshot4_thumb]][screenshot4]
+[screenshot1_thumb]: http://dl.dropbox.com/u/2111839/Permanent/MWPhotoBrowser/mwphotobrowser1_thumb.png
+[screenshot1]: http://dl.dropbox.com/u/2111839/Permanent/MWPhotoBrowser/mwphotobrowser1.png
+[screenshot2_thumb]: http://dl.dropbox.com/u/2111839/Permanent/MWPhotoBrowser/mwphotobrowser2_thumb.png
+[screenshot2]: http://dl.dropbox.com/u/2111839/Permanent/MWPhotoBrowser/mwphotobrowser2.png
+[screenshot3_thumb]: http://dl.dropbox.com/u/2111839/Permanent/MWPhotoBrowser/mwphotobrowser3_thumb.png
+[screenshot3]: http://dl.dropbox.com/u/2111839/Permanent/MWPhotoBrowser/mwphotobrowser3.png
+[screenshot4_thumb]: http://dl.dropbox.com/u/2111839/Permanent/MWPhotoBrowser/mwphotobrowser4_thumb.png
+[screenshot4]: http://dl.dropbox.com/u/2111839/Permanent/MWPhotoBrowser/mwphotobrowser4.png
+### MWPhotoBrowser (0.0.1)
+
+A simple iOS photo browser.
+
+- Homepage: https://github.com/mwaterfall/MWPhotoBrowser
+- Source:   https://github.com/mwaterfall/MWPhotoBrowser.git
+
+##キー値コーディングを簡単にできる？
+###NanoStore (2.0.1, 2.1.0, 2.1.1, 2.1.2, 2.1.3, 2.1.4)
+
+NanoStore is an open source, lightweight schema-less local key-value document
+store written in Objective-C for Mac OS X and iOS.
+
+- Homepage: https://github.com/tciuro/NanoStore
+- Source:   https://github.com/tciuro/NanoStore.git
+
+##three20よりシンプルな総合フレームワーク
+###Nimbus (0.9.0, 0.9.1, 0.9.2, 0.9.3)
+
+An iOS framework whose growth is bounded by O(documentation).
+
+- Homepage: http://docs.nimbuskit.info/index.html
+- Source:   https://github.com/jverkoey/nimbus.git
+
+## CoreDataのコードを読みやすくする
+###NLCoreData (0.1.0, 0.1.1, 0.2.0)
+
+Library that wraps Core Data for iOS for easier and more readable operations.
+
+- Homepage: https://www.github.com/jksk/NLCoreData
+- Source:   https://github.com/jksk/NLCoreData.git
+
+##モックのHTTPサーバ
+###NLTHTTPStubServer (0.1.1, 0.1.2)
+
+NLTHTTPStubServer is mocking server. launch simple HTTPServer on Testcodes.
+
+- Homepage: http://github.com/yaakaito/NLTHTTPStubServer
+- Source:   https://github.com/yaakaito/NLTHTTPStubServer.git
+
+## Tweetbotのような通知ビュー
+![Alt text](http://cloud.github.com/downloads/tciuro/NoticeView/screenshot_2.0.1.png)
+###NoticeView (1.0.0, 2.1)
+
+A TweetBot-like notice component for iOS.
+
+- Homepage: https://github.com/tciuro/NoticeView/
+- Source:   https://github.com/tciuro/NoticeView.git
+
+## オーディオを扱いやすくする
+###Novocaine (0.0.1)
+
+Painless high-performance audio on iOS and Mac OS X.
+
+- Homepage: http://alexbw.github.com/novocaine/
+- Source:   https://github.com/auser/novocaine.git
+
+## NSArrayやNSDictionaryをそのまま印刷する
+###NSContainers-PrettyPrint (0.0.1, 0.1.0, 0.2.0)
+
+Print your own object descriptions just like Apple's own NSArray and
+NSDictionary.
+
+- Homepage: https://github.com/NSError/NSContainers-PrettyPrint
+- Source:   https://github.com/NSError/NSContainers-PrettyPrint.git
+
+## Base64で暗号化。いくつかのライブラリで使われている。
+###NSData+Base64 (1.0.0)
+
+Base64 for NSData.
+
+- Homepage: 
+- Source:   https://github.com/l4u/NSData-Base64.git
+
+## MD5で暗号化。
+###NSData+MD5Digest (1.0.0)
+
+Add MD5 digest to NSData.
+
+- Homepage: https://github.com/siuying/NSData-MD5
+- Source:   https://github.com/siuying/NSData-MD5.git
+
+## NSDateを扱いやすくする
+##NSDate+Helper (0.0.1)
+
+A category to extend Cocoa's NSDate class with some convenience functions.
+
+- Homepage: https://github.com/billymeltdown/nsdate-helper
+- Source:   https://github.com/billymeltdown/nsdate-helper.git
+
+## OAuthクライアント
+###NXOAuth2Client (1.0.1, 1.1.0)
+
+Client library for OAuth2 (currently built against draft 10 of the OAuth2 spec).
+
+- Homepage: https://github.com/nxtbgthng/OAuth2Client
+- Source:   https://github.com/nxtbgthng/OAuth2Client.git
+
+## UIImageのカテゴリ。トリミングやリサイズなど。
+
+###NYXImagesKit (2.1.1, 2.1.2)
+
+A set of efficient categories for UIImage class. It allows filtering, resizing,
+masking, rotating, enhancing... and more.
+
+- Homepage: https://github.com/Nyx0uf/NYXImagesKit
+- Source:   https://github.com/Nyx0uf/NYXImagesKit.git
+
+### オーディオの取り扱いを簡単にする
+##ObjectAL-for-iPhone (2.1)
+
+iOS Audio development, minus the headache. ObjectAL is the easy Objective-C
+interface to OpenAL, AVAudioPlayer, and audio session management.
+
+- Homepage: http://kstenerud.github.com/ObjectAL-for-iPhone/
+- Source:   https://github.com/kstenerud/ObjectAL-for-iPhone.git
+
+## HTMLパーサ
+###Objective-C-HMTL-Parser (0.0.1)
+
+An objective c wrapper around libxml for parsing HTMLr.
+
+- Homepage: http://www.benreeves.co.uk
+- Source:   https://github.com/zootreeves/Objective-C-HMTL-Parser.git
+
+## Flickr APIフレームワーク
+###objectiveflickr (0.0.1)
+
+ObjectiveFlickr, a Flickr API framework for Objective-C.
+
+- Homepage: http://lukhnos.org
+- Source:   https://github.com/lukhnos/objectiveflickr.git
+
+## RubyのMixInのようなことができるようになる
+##ObjectiveMixin (0.0.1, 1.0.0)
+
+Ruby-like mixin functionality for Objective-C programs.
+
+- Homepage: https://github.com/vl4dimir/ObjectiveMixin
+- Source:   https://github.com/vl4dimir/ObjectiveMixin.git
+
+## Tumblr API
+###ObjectiveTumblr (0.1.1, 0.1.2, 0.1.3)
+
+Tumblr API Client for Objective-C with minimal features, based on Tumblr API v2
+(OAuth).
+
+- Homepage: https://github.com/IgnitionSoft/ObjectiveTumblr
+- Source:   https://github.com/IgnitionSoft/ObjectiveTumblr.git
+
+## QRエンコーダ
+###ObjQREncoder (0.0.1)
+
+Objective C QR Encoder.
+
+- Homepage: https://github.com/jverkoey/ObjQREncoder
+- Source:   https://github.com/jverkoey/ObjQREncoder.git
+
+## 長方形でないボタンを作ることができる
+### OBShapedButton (1.0.0)
+
+A UIButton subclass that works with non-rectangular button shapes.
+
+- Homepage: https://github.com/ole/OBShapedButton
+- Source:   https://github.com/ole/OBShapedButton.git
+
+## 間欠的なスライダー
+### OBSlider (1.0.0, 1.1.0)
+
+A UISlider subclass that adds variable scrubbing speeds.
+
+- Homepage: https://github.com/ole/OBSlider
+- Source:   https://github.com/ole/OBSlider.git
+
+## iPhoneでも使えるポップオーバーするシンプルなカレンダー
+### OCCalendar (0.0.1, 0.0.3)
+
+OCCalendar is a very simple component for iPhone/iPad that provides a 'Popover'
+date picker controller.
+
+- Homepage: https://github.com/ocrickard/OCCalendar
+- Source:   https://github.com/ocrickard/OCCalendar.git
+
+## テストのMatcherのライブラリ（GHUnitやCedarと連携可能）
+###OCHamcrest (1.6, 1.7, 1.8)
+
+Unit test assertions on steroids: Hamcrest matchers for Objective-C.
+
+- Homepage: https://github.com/hamcrest/OCHamcrest
+- Source:   https://github.com/hamcrest/OCHamcrest.git
+
+## ログ・フレームワーク
+### OCLogTemplate (1.0)
+
+A logging framework for Objective-C projects.
+
+- Homepage: https://github.com/jasperblues/OCLogTemplate
+- Source:   https://github.com/jasperblues/OCLogTemplate.git
+
+## テスト用のモック
+###OCMock (1.77.1, 2.0.1)
+
+OCMock is an Objective-C implementation of mock objects.
+
+- Homepage: http://ocmock.org
+- Source:   https://github.com/erikdoe/ocmock.git
+
+## iOS6メールアプリのようなプルダウン・リフレッシュ
+![](http://www.orangeinaday.com/img/ODRefreshControl.jpg)
+### ODRefreshControl (0.0.1, 0.0.2, 1.0.0)
+
+A pull down to refresh control like the one in Apple's iOS6 Mail App.
+
+- Homepage: https://github.com/Sephiroth87/ODRefreshControl
+- Source:   https://github.com/Sephiroth87/ODRefreshControl.git
+
+## 書式色付ラベル
+###OHAttributedLabel (0.0.1.pre.1, 0.0.1.pre.2, 1.2.0)
+
+UILabel that supports NSAttributedString.
+
+- Homepage: https://github.com/AliSoftware/OHAttributedLabel
+- Source:   https://github.com/AliSoftware/OHAttributedLabel.git
+
+## UDIDを取得？
+### OpenUDID (1.0.0)
+
+Open source initiative for a universal and persistent UDID solution for iOS..
+
+- Homepage: http://OpenUDID.org
+- Source:   https://github.com/ylechelle/OpenUDID.git
+
+## iPhone App Storeのスクリーンショットのように左右に動かせるビュー
+###![Demo](http://ww4.sinaimg.cn/large/65cc0af7gw1dqpbq3o6l6j.jpg)
+
+PagedFlowView (0.0.1)
+A Paging Enabled Flow View, like screenshots view in iPhone App Store.
+
+- Homepage: https://github.com/fictorial/PagedFlowView
+- Source:   https://github.com/fictorial/PagedFlowView.git
+
+## BaaS
+###Parse (1.0.36, 1.0.39)
+
+The mobile app platform for developers.
+
+- Homepage: http://parse.com/
+- Source:   https://github.com/fictorial/Parse.git
+
+## 文字列をトークン化したりパースしたり
+## ParseKit (0.0.1, 0.0.2)
+
+Objective-C/Cocoa String Tokenizer and Parser toolkit. Supports Grammars.
+
+- Homepage: http://parsekit.com/
+- Source:   http://parsekit.googlecode.com/svn/trunk
+
+## プル・リフレッシュ
+###PHFRefreshControl (1.0.0)
+
+YAPTR(TM): Yet another pull-to-refresh.
+
+- Homepage: https://github.com/fphilipe/PHFRefreshControl
+- Source:   https://github.com/fphilipe/PHFRefreshControl.git
+
+## Pivotalのテスト用ライブラリ
+### PivotalCoreKit (0.0.1)
+
+Shared library and test code for iOS projects.
+
+- Homepage: https://github.com/pivotal/PivotalCoreKit
+- Source:   https://github.com/pivotal/PivotalCoreKit.git
+- Sub specs:
+	- PivotalCoreKit/CoreLib (0.0.1)
+	- PivotalCoreKit/UICoreLib (0.0.1)
+	- PivotalCoreKit/SpecHelperLib (0.0.1)
+
+## Facebookのようなサイドビュー
+###PPRevealSideViewController (0.1.0)
+
+A new container controller to easily push views on side like Path or Facebook.
+
+- Homepage: www.ipup.pro
+- Source:   https://github.com/ipup/PPRevealSideViewController.git
+
+## テーブルやナビゲーションバーなどをカスタマイズ
+###PrettyKit (0.1.0, 0.2.0)
+
+PrettyKit for iOS is a small set of new widgets and UIKit subclasses that gives
+you a deeper UIKit customization.
+
+- Homepage: http://github.com/vicpenap/PrettyKit
+- Source:   https://github.com/vicpenap/PrettyKit.git
+
+## 画像補完を行う
+###PRTween (0.0.1)
+
+PRTween is a lightweight tweening library built for iOS.
+
+- Homepage: https://github.com/dominikhofmann/PRTween
+- Source:   https://github.com/dominikhofmann/PRTween.git
+
+## 画像を指でズーム、回転
+###PSPushPopPressView (0.0.1)
+
+Zoom, Rotate, Drag ? everything at the same time. A view-container for direct
+manipulation, inspired by Our Choice from Push Pop Press.
+
+- Homepage: http://petersteinberger.com
+- Source:   https://github.com/steipete/PSPushPopPressView.git
+
+## iPadのTwitterのようなビュー
+![PSStackedView](http://f.cl.ly/items/2O1p18263a2Q27223R3h/Screen%20Shot%202011-11-01%20at%206.03.02%20PM.png)
+![PSStackedView](http://f.cl.ly/items/2Z0w0D1P0y1h2N1V3d1t/mzl.svmxiutd.png)
+### PSStackedView (0.1)
+
+Open source implementation of Twitter/iPad stacked ui - done right.
+
+- Homepage: https://github.com/steipete/PSStackedView
+- Source:   https://github.com/steipete/PSStackedView.git
+
+## iPhone App Storeのようなボタン
+### PSStoreButton (0.0.1)
+
+UIButton that is styled like iPhone's AppStore-Button.
+
+- Homepage: https://github.com/steipete/PSStoreButton
+- Source:   https://github.com/steipete/PSStoreButton.git
+
+## プル・リフレッシュ
+###PullToRefresh (0.0.1)
+
+A simple iPhone TableViewController for adding pull-to-refresh functionality.
+
+- Homepage: https://github.com/leah/PullToRefresh
+- Source:   https://github.com/leah/PullToRefresh.git
+
+## プル・リフレッシュ
+###PullToRefreshView (0.0.1)
+
+A UIView for easily implementing pull-to-refresh functionality in a UIScrollView
+that doesn't suck.
+
+- Homepage: https://github.com/btaylor/PullToRefreshView
+- Source:   https://github.com/btaylor/PullToRefreshView.git
+
+## 小さな矢印をタップすると水平にアイコンがいくつも表示される
+![Here you have the control working without the animation :-)](https://github.com/sendoa/QBKOverlayMenuView/raw/master/Docs/ejemplo.png)
+### QBKOverlayMenuView (0.0.1)
+
+UIView object that tries to mimic the behavior of the floating control used by
+Sparrow.
+
+- Homepage: https://github.com/sendoa/QBKOverlayMenuView
+- Source:   https://github.com/sendoa/QBKOverlayMenuView.git
+
+## 雰囲気の良いログインや設定のダイアログ
+<img class="alignleft" title="QuickDialog1" src="https://github.com/escoz/QuickDialog/raw/master/other/quickdialog2.png" alt="" width="297" height="558">
+<img class="alignleft" title="QuickDialog 2" src="https://github.com/escoz/QuickDialog/raw/master/other/quickdialog3.png" alt="" width="297" height="558">
+### QuickDialog (0.1, 0.2, 0.3, 0.4, 0.5)
+
+Quick and easy dialog screens for iOS.
+
+- Homepage: http://escoz.com/quickdialog-released/
+- Source:   https://github.com/escoz/QuickDialog.git
+
+## レンジを表すスライダ
+<img src="http://cdn.buildmobile.com/files/2011/08/Image-of-parts.png" alt="The Parts of the Slider" width="584" height="222" class="size-full wp-image-1780">
+### RangeSlider (0.0.1)
+
+Source code for the iOS Range Slider series by Mal Curtis at BuildMobile.
+
+- Homepage: http://buildmobile.com/wicked-ios-range-slider-part-one/
+- Source:   https://github.com/buildmobile/iosrangeslider.git
+
+## 簡単にカスタマイズできるアクションシート
+http://f.cl.ly/items/2Z2I431z1F40293M2i1f/Screeny%20Video%2022%20Mar%202012%2017.00.51.mov
+### RDActionSheet (0.0.1)
+
+Class to make a easily customisable Action Sheet for iOS.
+
+- Homepage: http://riothq.com
+- Source:   https://github.com/reddavis/RDActionSheet.git
+
+## 圏外かどうかを判定する
+###Reachability (2.0.4, 2.0.5, 3.0.0)
+
+ARC and GCD Compatible Reachability Class for iOS and OS X. Drop in replacement
+for Apple Reachability.
+
+- Homepage: https://github.com/tonymillion/Reachability
+- Source:   https://github.com/tonymillion/Reachability.git
+
+
+
+
+
+
+
+    
+##バブルチャートのようなものを地図上に表示する
+
+![OpenClusterMapView Logo](http://www.unet.univie.ac.at/~a0846794/OCMapView/screenshots/open_cluster_mapview_off.png "OpenClusterMapView Turned off")
+![OpenClusterMapView Logo](http://www.unet.univie.ac.at/~a0846794/OCMapView/screenshots/open_cluster_mapview_on.png "OpenClusterMapView Turned on")
+![OpenClusterMapView Logo](http://www.unet.univie.ac.at/~a0846794/OCMapView/screenshots/open_cluster_mapview_groups.png "OpenClusterMapView grouped")    
+###OCMapView
+
+not included in cocoaPods
+
+- Homepage: https://github.com/yinkou/OCMapView
+- Source:   https://github.com/yinkou/OCMapView.git
+
+##可変グリッドビュー（大きさが変化する）
+
+![](http://farm3.static.flickr.com/2302/4507143463_63823457b8.jpg)
+###treemapkit (0.0.1)
+
+TreeMap for Cocoa Touch (iPhone/iPod touch/iPad).
+
+- Homepage: http://github.com/yatsu/treemapkit
+- Source:   https://github.com/yatsu/treemapkit.git
+
+<object type="application/x-shockwave-flash" width="300" height="400" data="http://www.flickr.com/apps/video/stewart.swf?v=109786" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars" value="intl_lang=en-us&photo_secret=4c1a37681b&photo_id=4507143423"></param> <param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=109786"></param> <param name="bgcolor" value="#000000"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=109786" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&photo_secret=4c1a37681b&photo_id=4507143423" height="400" width="300"></embed></object>
+>>>>>>> 編集用
 
