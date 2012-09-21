@@ -1482,6 +1482,52 @@ that doesn't suck.
 - Homepage: https://github.com/btaylor/PullToRefreshView
 - Source:   https://github.com/btaylor/PullToRefreshView.git
 
+## 小さな矢印をタップすると水平にアイコンがいくつも表示される
+![Here you have the control working without the animation :-)](https://github.com/sendoa/QBKOverlayMenuView/raw/master/Docs/ejemplo.png)
+### QBKOverlayMenuView (0.0.1)
+
+UIView object that tries to mimic the behavior of the floating control used by
+Sparrow.
+
+- Homepage: https://github.com/sendoa/QBKOverlayMenuView
+- Source:   https://github.com/sendoa/QBKOverlayMenuView.git
+
+## 雰囲気の良いログインや設定のダイアログ
+<img class="alignleft" title="QuickDialog1" src="https://github.com/escoz/QuickDialog/raw/master/other/quickdialog2.png" alt="" width="297" height="558">
+<img class="alignleft" title="QuickDialog 2" src="https://github.com/escoz/QuickDialog/raw/master/other/quickdialog3.png" alt="" width="297" height="558">
+### QuickDialog (0.1, 0.2, 0.3, 0.4, 0.5)
+
+Quick and easy dialog screens for iOS.
+
+- Homepage: http://escoz.com/quickdialog-released/
+- Source:   https://github.com/escoz/QuickDialog.git
+
+## レンジを表すスライダ
+<img src="http://cdn.buildmobile.com/files/2011/08/Image-of-parts.png" alt="The Parts of the Slider" width="584" height="222" class="size-full wp-image-1780">
+### RangeSlider (0.0.1)
+
+Source code for the iOS Range Slider series by Mal Curtis at BuildMobile.
+
+- Homepage: http://buildmobile.com/wicked-ios-range-slider-part-one/
+- Source:   https://github.com/buildmobile/iosrangeslider.git
+
+## 簡単にカスタマイズできるアクションシート
+http://f.cl.ly/items/2Z2I431z1F40293M2i1f/Screeny%20Video%2022%20Mar%202012%2017.00.51.mov
+### RDActionSheet (0.0.1)
+
+Class to make a easily customisable Action Sheet for iOS.
+
+- Homepage: http://riothq.com
+- Source:   https://github.com/reddavis/RDActionSheet.git
+
+## 圏外かどうかを判定する
+###Reachability (2.0.4, 2.0.5, 3.0.0)
+
+ARC and GCD Compatible Reachability Class for iOS and OS X. Drop in replacement
+for Apple Reachability.
+
+- Homepage: https://github.com/tonymillion/Reachability
+- Source:   https://github.com/tonymillion/Reachability.git
 
 
 
