@@ -1583,6 +1583,96 @@ for Apple Reachability.
 - Homepage: https://github.com/tonymillion/Reachability
 - Source:   https://github.com/tonymillion/Reachability.git
 
+## 最も使われているネットワークライブラリ
+###RestKit (0.9.3, 0.10.0, 0.10.1, 0.10.2)
+
+RestKit is a framework for consuming and modeling RESTful web resources on iOS
+and OS X.
+
+- Homepage: http://www.restkit.org
+- Source:   https://github.com/RestKit/RestKit.git
+- Sub specs:
+      - RestKit/JSON (0.10.2)
+      - RestKit/XML (0.10.2)
+      - RestKit/Network (0.10.2)
+      - RestKit/UI (0.10.2)
+      - RestKit/ObjectMapping (0.10.2)
+      - RestKit/ObjectMapping/JSON (0.10.2)
+      - RestKit/ObjectMapping/XML (0.10.2)
+      - RestKit/ObjectMapping/CoreData (0.10.2)
+      - RestKit/Testing (0.10.2)
+
+## Rump（位置情報を使ったミーティングサービス）クライアント
+### rump-ios (1.0.0)
+
+Rump-iOS is Rump client for iOS devices..
+
+- Homepage: https://github.com/tpuronen/rump-ios
+- Source:   https://github.com/tpuronen/rump-ios.git
+
+## タイルビュー
+### SBTickerView (0.0.1)
+
+An easy to use ticker view with inspiration from Flipboard.
+
+- Homepage: https://github.com/blommegard/SBTickerView
+- Source:   https://github.com/blommegard/SBTickerView.git
+
+## ドラッグアンドドロップできるビュー
+### SEDraggable (1.0.0)
+
+Drag and drop UIView subclasses for iOS.
+
+- Homepage: http://github.com/brynbellomy/iOS-DragAndDrop
+- Source:   https://github.com/brynbellomy/iOS-DragAndDrop.git
+
+## 時間換算
+### SEHumanizedTimeDiff (0.0.1)
+
+An NSDate category to have humanly meaningful time intervals since todays date.
+
+- Homepage: https://github.com/fictorial/SEHumanizedTimeDiff
+- Source:   https://github.com/fictorial/SEHumanizedTimeDiff.git
+
+## グラフAPIやFQLも使うことができるFacebook SDK
+### SFSocialFacebook (1.0.0, 1.1.0, 1.2.0, 1.2.1, 1.2.2)
+
+Façade implementation for Facebook-iOS-SDKIt enables you to access the Facebook
+Platform APIs including the Graph API, FQL, and Dialogs.
+
+- Homepage: http://developers.facebook.com/docs/reference/iossdk
+- Source:   https://github.com/indigotech/facebook-ios-sdk.git
+
+## 「共有」ボタン
+### ShareKit (2.0)
+
+Drop in sharing features for all iPhone and iPad apps.
+
+- Homepage: http://getsharekit.com/
+- Source:   https://github.com/ShareKit/ShareKit.git
+- Sub specs:
+      - ShareKit/Evernote (2.0)
+      - ShareKit/Facebook (2.0)
+      - ShareKit/Flickr (2.0)
+      - ShareKit/Foursquare (2.0)
+      - ShareKit/GoogleReader (2.0)
+      - ShareKit/Instapaper (2.0)
+      - ShareKit/LinkedIn (2.0)
+      - ShareKit/Pinboard (2.0)
+      - ShareKit/ReadItLater (2.0)
+      - ShareKit/Tumblr (2.0)
+      - ShareKit/Twitter (2.0)
+      - ShareKit/Vkontakte (2.0)
+
+## Web SocketライブラリのiOS版クライアント
+### SignalR-ObjC (0.5.0, 0.5.2, 0.5.3)
+
+Objective-C Client for the SignalR Project works with iOS and Mac.
+
+- Homepage: https://github.com/DyKnow/SignalR-ObjC
+- Source:   https://github.com/DyKnow/SignalR-ObjC.git
+
+
 
 
 
