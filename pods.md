@@ -1672,7 +1672,110 @@ Objective-C Client for the SignalR Project works with iOS and Mac.
 - Homepage: https://github.com/DyKnow/SignalR-ObjC
 - Source:   https://github.com/DyKnow/SignalR-ObjC.git
 
+## 画面下にチロッと表示されるシンプルでスマートな通知バー
+![](http://www.judoburrito.com/SJNotificationViewController/notification.png)
 
+![](http://www.judoburrito.com/SJNotificationViewController/error.png)
+
+![](http://www.judoburrito.com/SJNotificationViewController/message.png)
+
+![](http://www.judoburrito.com/SJNotificationViewController/success.png)
+
+![](http://www.judoburrito.com/SJNotificationViewController/spinner.png)
+## SJNotificationViewController (1.0.1)
+
+Lightweight notifications in iOS apps.
+
+- Homepage: http://github.com/ekdevdes/SJNotificationViewController
+- Source:   https://github.com/ekdevdes/SJNotificationViewController.git
+
+MKMapView以外でも同じようなポップアップを表示する
+![](http://cl.ly/image/2a2j1p3U243P/Image%202012.09.02%2010:04:58%20AM.png)
+## SMCalloutView (1.0.0)
+
+A lightweight callout view class for iOS mimicking UICalloutView.
+
+- Homepage: https://github.com/nfarina/calloutview
+- Source:   https://github.com/nfarina/calloutview.git
+
+## HUDというよりはシックなポップアップメッセージのようなもの
+![SNRHUDKit](http://i.imgur.com/MUD9H.png)
+
+## SNRHUDKit (0.0.1)
+
+Code drawn AppKit HUD interface elements.
+
+- Homepage: https://github.com/indragiek/SNRHUDKit
+- Source:   https://github.com/indragiek/SNRHUDKit.git
+
+## WebSocketクライアントライブラリ
+### SocketRocket (0.1, 0.2.0)
+
+A conforming WebSocket (RFC 6455) client library.
+
+- Homepage: https://github.com/square/SocketRocket
+- Source:   https://github.com/square/SocketRocket.git
+
+## 月だけを選ぶピッカー
+### SRMonthPicker (0.1.1)
+
+Like UIDatePicker, but without the days.
+
+- Homepage: https://www.github.com/simonrice/SRMonthPicker
+- Source:   https://github.com/simonrice/SRMonthPicker.git
+
+## いろんな形のチェックボックス
+<img class="size-medium wp-image-266" title="SSCheckBoxView Demo" src="http://farm8.staticflickr.com/7012/6473293001_ab905bc6cc.jpg" alt="SSCheckBoxView Demo" width="333" height="500">
+### SSCheckBoxView (0.0.1)
+
+SSCheckBoxView is a check box UI control for iOS apps.
+
+- Homepage: http://www.ardalahmet.com/2011/12/07/sscheckboxview-a-check-box-ui-control-for-ios-apps/
+- Source:   https://github.com/ardalahmet/SSCheckBoxView.git
+
+## コーディングをラクにするための様々なツール
+<img src="http://sstoolk.it/images/catalog.png" alt="SSCatalog">
+### SSToolkit (0.1.1, 0.1.2, 1.0.0, 1.0.1, 1.0.2)
+
+A collection of well-documented iOS classes for making life easier.
+
+- Homepage: http://sstoolk.it
+- Source:   https://github.com/fictorial/sstoolkit.git
+
+## zip圧縮と解凍
+### SSZipArchive (0.1.0, 0.1.1, 0.1.2, 0.2.0, 0.2.1, 0.2.2)
+
+Utility class for zipping and unzipping files on iOS and Mac.
+
+- Homepage: https://github.com/samsoffes/ssziparchive
+- Source:   https://github.com/samsoffes/ssziparchive.git
+
+## StackMobというBaaSのSDK
+### StackMob (0.4.11, 0.4.12, 0.5.0, 0.5.1, 0.5.2, 0.5.3, 1.0.0beta.1, 1.0.0beta.2, 1.0.0beta.3)
+
+StackMob's SDK for accessing the StackMob Services on iOS.
+
+- Homepage: http://stackmob.com
+- Source:   https://github.com/stackmob/stackmob-ios-sdk.git
+
+## StackMobを使ったプッシュ通知
+### StackMobPush (1.0.0)
+
+StackMob's Push SDK for sending push notifications via the StackMob Services on
+iOS.
+
+- Homepage: http://stackmob.com
+- Source:   https://github.com/stackmob/stackmob-ios-push-sdk.git
+
+## パスを自然なものに変えてくれるw
+###StandardPaths (1.1.1)
+
+StandardPaths is a category on NSFileManager for simple, consistent access to
+standard application directories on iOS and Mac OS and abstraction of excluding
+certain files from iCloud backup on iOS.
+
+- Homepage: https://github.com/nicklockwood/StandardPaths
+- Source:   https://github.com/nicklockwood/StandardPaths.git
 
 
 
@@ -1703,5 +1806,4 @@ TreeMap for Cocoa Touch (iPhone/iPod touch/iPad).
 - Source:   https://github.com/yatsu/treemapkit.git
 
 <object type="application/x-shockwave-flash" width="300" height="400" data="http://www.flickr.com/apps/video/stewart.swf?v=109786" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars" value="intl_lang=en-us&photo_secret=4c1a37681b&photo_id=4507143423"></param> <param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=109786"></param> <param name="bgcolor" value="#000000"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=109786" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&photo_secret=4c1a37681b&photo_id=4507143423" height="400" width="300"></embed></object>
->>>>>>> 編集用
 
