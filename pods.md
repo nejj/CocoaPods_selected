@@ -1769,6 +1769,9 @@ iOS.
 - Source:   https://github.com/stackmob/stackmob-ios-push-sdk.git
 
 ## パスを自然なものに変えてくれるw
+
+	- (NSString *)temporaryDataPath;
+
 ###StandardPaths (1.1.1)
 
 StandardPaths is a category on NSFileManager for simple, consistent access to
@@ -1777,6 +1780,55 @@ certain files from iCloud backup on iOS.
 
 - Homepage: https://github.com/nicklockwood/StandardPaths
 - Source:   https://github.com/nicklockwood/StandardPaths.git
+
+## AFNetworkingを使ったOAuth1.0クライアント
+###STLOAuth (1.0.0)
+
+OAuth 1.0a client using AFNetwork.
+
+- Homepage: https://github.com/Elland/stl-oauth-client
+- Source:   https://github.com/Elland/stl-oauth-client.git
+
+## テストのためにメソッドをすり替える
+### Surikae (0.2.1)
+
+Surikae exchanges a class or instance method. It’s helpful for unit testing of
+Objective-C.
+
+- Homepage: https://github.com/katsuyoshi/Surikae/wiki
+- Source:   https://github.com/katsuyoshi/Surikae.git
+
+## SVGファイルをレイヤとして描画する
+### SVGKit (0.0.1)
+
+A Cocoa framework for rendering SVG files as Core Animation layers.
+
+- Homepage: https://github.com/SVGKit/SVGKit
+- Source:   https://github.com/SVGKit/SVGKit.git
+
+## HUD
+<img src="http://samvermette.s3.amazonaws.com/blog/199-svprogresshud/svprogresshud.jpg" alt="">
+SVProgressHUD (0.2, 0.4, 0.5, 0.6, 0.7, 0.8)
+### A clean and lightweight progress HUD for your iOS app.
+
+- Homepage: http://samvermette.com/199
+- Source:   https://github.com/samvermette/SVProgressHUD.git
+
+## 水平スイッチ
+![](http://f.cl.ly/items/213N0a1k2U2O0F3y053z/svsegmentedcontrol3.png)
+### SVSegmentedControl (0.0.1)
+A UISwitch-like segmented control for your iOS app.
+
+- Homepage: https://github.com/samvermette/SVSegmentedControl
+- Source:   https://github.com/samvermette/SVSegmentedControl.git
+
+## アプリ内Webブラウザ
+### SVWebViewController (0.0.1, 0.1)
+
+A drop-in inline browser for your iOS app.
+
+- Homepage: https://github.com/samvermette/SVWebViewController
+- Source:   https://github.com/samvermette/SVWebViewController.git
 
 
 
