@@ -140,6 +140,7 @@ ColorPicker for iPhone and iPod touch.
 - Source:   https://github.com/hayashi311/Color-Picker-for-iOS.git
 
 ###折れ線グラフ
+<img src="http://core-plot.googlecode.com/files/Promo%20slide%20for%20core%20plot.001.jpg" width="600">
 ##CorePlot (1.0)
 Cocoa plotting framework for Mac OS X and iOS.
 
