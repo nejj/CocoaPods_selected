@@ -1830,6 +1830,104 @@ A drop-in inline browser for your iOS app.
 - Homepage: https://github.com/samvermette/SVWebViewController
 - Source:   https://github.com/samvermette/SVWebViewController.git
 
+## テーブルのセルにバッジを付ける
+![Example Image](http://f.cl.ly/items/1e1n133e180c2L292s47/Untitled.png)
+### TDBadgedCell (2.0)
+
+UITableViewCell subclass that adds a "badgeString" property to table view
+cells.
+
+- Homepage: https://github.com/tmdvs/TDBadgedCell
+- Source:   https://github.com/tmdvs/TDBadgedCell.git
+
+## 有名なフレームワーク
+### Three20 (1.0.11)
+
+Three20 is an Objective-C library for iPhone developers.
+
+- Homepage: http://three20.info/
+- Source:   https://github.com/facebook/three20.git
+
+## Three20のiPhone限定版
+### Three20Lite (2.1.0)
+
+Lite edition of Three20, a collection of iPhone UI classes.
+
+- Homepage: https://github.com/aporat/three20lite
+- Source:   https://github.com/aporat/three20lite.git
+
+## Pathアプリのような時間表時
+### TimeScroller (1.2.0)
+
+A UI Element that hover beside the scroll bar of a UITableView (Mimicking the
+Path app).
+
+- Homepage: https://github.com/andrewroycarter/TimeScroller
+- Source:   https://github.com/andrewroycarter/TimeScroller.git
+
+##可変グリッドビュー（大きさが変化する）
+
+![](http://farm3.static.flickr.com/2302/4507143463_63823457b8.jpg)
+###treemapkit (0.0.1)
+
+TreeMap for Cocoa Touch (iPhone/iPod touch/iPad).
+
+- Homepage: http://github.com/yatsu/treemapkit
+- Source:   https://github.com/yatsu/treemapkit.git
+
+<object type="application/x-shockwave-flash" width="300" height="400" data="http://www.flickr.com/apps/video/stewart.swf?v=109786" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars" value="intl_lang=en-us&photo_secret=4c1a37681b&photo_id=4507143423"></param> <param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=109786"></param> <param name="bgcolor" value="#000000"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=109786" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&photo_secret=4c1a37681b&photo_id=4507143423" height="400" width="300"></embed></object>
+
+## 音楽ライブラリをインポート
+### TSLibraryImport (0.0.1)
+
+Objective-C class for importing files from user's iPod Library in iOS4.
+
+- Homepage: https://github.com/tapsquare/TSLibraryImport
+- Source:   https://github.com/tapsquare/TSLibraryImport.git
+
+
+## アプリ内ブラウザ
+[![Alt][screenshot1_thumb]][screenshot1]    [![Alt][screenshot2_thumb]][screenshot2]    [![Alt][screenshot3_thumb]][screenshot3]
+[screenshot1_thumb]: http://dl.dropbox.com/u/7604222/GitHub/TSMiniWebBrowser/shot_01_thumb.png
+[screenshot1]: http://dl.dropbox.com/u/7604222/GitHub/TSMiniWebBrowser/shot_01.png
+[screenshot2_thumb]: http://dl.dropbox.com/u/7604222/GitHub/TSMiniWebBrowser/shot_02_thumb.png
+[screenshot2]: http://dl.dropbox.com/u/7604222/GitHub/TSMiniWebBrowser/shot_02.png
+[screenshot3_thumb]: http://dl.dropbox.com/u/7604222/GitHub/TSMiniWebBrowser/shot_03_thumb.png
+[screenshot3]: http://dl.dropbox.com/u/7604222/GitHub/TSMiniWebBrowser/shot_03.png
+
+### TSMiniWebBrowser (0.0.1)
+
+An in-app web browser control for iOS apps.
+
+- Homepage: https://github.com/tonisalae/TSMiniWebBrowser
+- Source:   https://github.com/tonisalae/TSMiniWebBrowser.git
+
+## UILabelの拡張
+### TTTAttributedLabel (1.3.0)
+
+A drop-in replacement for UILabel that supports NSAttributedStrings.
+
+- Homepage: https://github.com/mattt/TTTAttributedLabel/
+- Source:   https://github.com/mattt/TTTAttributedLabel.git
+
+## 離散スライダ
+### TVCalibratedSlider (1.0.1)
+
+A control used to select a value from a bunch of values. This control is
+drawn as horizontal bar with scale below it.
+
+- Homepage: https://github.com/taviscaios/TVCalibratedSlider
+- Source:   https://github.com/taviscaios/TVCalibratedSlider.git
+
+## GitHub APIのラッパー
+### UAGithubEngine (2.3)
+
+Objective-C wrapper for the Github API.
+
+- Homepage: http://github.com/owainhunt/uagithubengine
+- Source:   https://github.com/owainhunt/UAGithubEngine.git
+
+
 
 
 
@@ -1847,16 +1945,4 @@ not included in cocoaPods
 
 - Homepage: https://github.com/yinkou/OCMapView
 - Source:   https://github.com/yinkou/OCMapView.git
-
-##可変グリッドビュー（大きさが変化する）
-
-![](http://farm3.static.flickr.com/2302/4507143463_63823457b8.jpg)
-###treemapkit (0.0.1)
-
-TreeMap for Cocoa Touch (iPhone/iPod touch/iPad).
-
-- Homepage: http://github.com/yatsu/treemapkit
-- Source:   https://github.com/yatsu/treemapkit.git
-
-<object type="application/x-shockwave-flash" width="300" height="400" data="http://www.flickr.com/apps/video/stewart.swf?v=109786" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"> <param name="flashvars" value="intl_lang=en-us&photo_secret=4c1a37681b&photo_id=4507143423"></param> <param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=109786"></param> <param name="bgcolor" value="#000000"></param> <param name="allowFullScreen" value="true"></param><embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/video/stewart.swf?v=109786" bgcolor="#000000" allowfullscreen="true" flashvars="intl_lang=en-us&photo_secret=4c1a37681b&photo_id=4507143423" height="400" width="300"></embed></object>
 
